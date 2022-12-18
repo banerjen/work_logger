@@ -2,6 +2,8 @@
 A tool to keep track of daily work logs. Run the program using -
 ```python main.py```
 
+![Screenshot](resources/work_logger_screenshot.jpg)
+
 ## Requirements
 + Python 3.7 +
 + boto3
